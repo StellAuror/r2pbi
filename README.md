@@ -24,3 +24,7 @@ Using JS & R langauge to develop custom Power BI visualizations
 		- name
 		- email
 	- execute **pbiviz package** in the terminal
+ 
+## Sample result (plotly)
+![image](https://github.com/StellAuror/r2pbi/assets/100155329/dd8377ee-2e81-4fb0-a398-6ac0cf17f467)
+
